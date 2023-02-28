@@ -1,0 +1,17 @@
+.form-container {
+    position: absolute;
+    background: white;
+    top: 10%;
+    left: 40%;
+    padding: 30px;
+    border-radius: 5px;
+}
+.logo {
+    position: absolute;
+    top: 10%;
+    left:5%;
+}
+.img-bg {
+    background-image: url(img/netflix-back.jpg);
+    height: 100%;
+}
